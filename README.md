@@ -1,14 +1,14 @@
-# @bamblehorse/tiny
+# @schmitty2535/ms-lib
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+![npm](https://img.shields.io/npm/v/mstest1?color=blue)
 
-Removes all spaces from a string.
+
+MS's Custom Library
 
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install mstest1
 ```
 
 ## Usage
