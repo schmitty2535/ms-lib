@@ -14,13 +14,7 @@ $ npm install mstest1
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const mslib = require("@schmitty2535/ms-lib");
 
-tiny("So much space!");
-//=> "Somuchspace!"
 
-tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
-//    at <anonymous>:1:1
 ```
